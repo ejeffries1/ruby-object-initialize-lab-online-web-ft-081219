@@ -9,5 +9,6 @@ class Dog
       return @breed
     else
       puts "Mutt"
+    end
   end
 end
