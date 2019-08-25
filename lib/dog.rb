@@ -8,7 +8,7 @@ class Dog
     if breed
       return @breed
     else
-      puts "Mutt"
+      breed = "Mutt"
     end
   end
 end
